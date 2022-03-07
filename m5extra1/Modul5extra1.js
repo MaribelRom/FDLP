@@ -25,7 +25,7 @@ console.log(difNumbers)
 if(usuNumber>N && difNumbers>=50 ){
   alert("fred fred ")
 }
-usuNumber=parseInt(prompt("Escriu un numero aleatori entre el 0 i el 500"))
+usuNumber=parseInt(prompt("Escriu un numero aleatori entre el 0 i el 500")) 
 if(usuNumber===N){
   alert(`Has encertat. Es el numero ${N}`)
 }
